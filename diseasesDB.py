@@ -115,9 +115,7 @@ stuff = [
     ("""Asthma""",
      """""",
      """Common Causes:
-     Wheezing when exhaling, which is a common sign of asthma in children
-     Coughing or wheezing attacks that are worsened by a respiratory virus, such as a cold or the flu
-     Wheezing when exhaling, which is a common sign of asthma in children
+     Allergy to pollen, dust particles
      Ait pollution
      Respiratory infections
      Sulfites in food""",
